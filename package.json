@@ -1,0 +1,28 @@
+{
+  "name": "wht",
+  "version": "0.0.1",
+  "description": "world history timeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLoev/wht.git"
+  },
+  "keywords": [
+    "world",
+    "history",
+    "timeline",
+    "map"
+  ],
+  "author": "AlexLoev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexLoev/wht/issues"
+  },
+  "homepage": "https://github.com/AlexLoev/wht#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.9"
+  }
+}
