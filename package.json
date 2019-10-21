@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/AlexLoev/wht#readme",
   "dependencies": {
-    "brain.js": "^2.0.0-alpha.9"
+    "brain.js": "^2.0.0-alpha.9",
+    "neural-data-normalizer": "^1.1.0"
   }
 }
